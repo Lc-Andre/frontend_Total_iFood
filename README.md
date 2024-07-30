@@ -1,6 +1,6 @@
-# Aplicação Gasto Ifood
+# Aplicação Total iFood
 
-A "Aplicação Gasto Ifood" é uma ferramenta web desenvolvida para fornecer uma visão detalhada dos gastos de um usuário na plataforma iFood. O objetivo é permitir que os usuários entendam melhor seus padrões de consumo e identifiquem os restaurantes onde mais gastam e fazem pedidos.
+Esse projeto é uma ferramenta desenvolvida para auxiliar os usuários a monitorar seus gastos no Ifood. A aplicação fornece informações tais como: O total gasto em sua conta iFood, os restaurantes onde mais gastou, frequências em pedidos e as formas de pagamento mais utilizadas.
 
 ## Funcionalidades
 
@@ -17,11 +17,7 @@ Como parte do desenvolvimento deste projeto, fui responsável pelo frontend e pe
 
 ### 1. Interface de Usuário
 
-Desenvolvi a interface de usuário utilizando HTML e CSS, garantindo que a aplicação seja intuitiva. A interface inclui:
-
-- Um cabeçalho com o título do aplicativo e botões de navegação.
-- Uma seção principal onde os usuários podem inserir seu token e calcular os gastos.
-- Seções informativas que exibem os resultados obtidos da API.
+Desenvolvi a interface de usuário utilizando HTML e CSS, garantindo que a aplicação seja intuitiva.
 
 ### 2. Tela de Carregamento
 
