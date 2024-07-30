@@ -63,7 +63,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd frontend_gasto_ifood
+    cd frontend_Total_iFood/public
     ```
 
 3. Abra o arquivo `index.html` em um navegador web.
